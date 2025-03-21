@@ -1,0 +1,8 @@
+.story-text{
+    display: flex;
+    position: absolute;
+    height:45%;
+    width:90%;
+    background-color: aqua;
+    left:5%;
+}
