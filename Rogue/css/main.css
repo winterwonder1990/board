@@ -1,0 +1,30 @@
+
+
+
+.roll-button{
+   height: 10%;
+   width: 20%;
+   display: flex;
+   position: absolute;
+}
+
+ .body{
+    height: 100%;
+    width: 100%;
+ 
+    background-color: black;
+    display: flex;
+  
+ }
+
+ .board-1{
+    height: 50%;
+    width: 50%;
+    
+    background-color: rgb(126, 19, 19);
+    display: flex;
+    position: fixed;
+    top: 15%;
+    left: 35%;
+   
+ }

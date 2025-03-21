@@ -1,0 +1,278 @@
+
+
+
+
+
+ .board-1-tile-1{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+ }
+
+ .board-1-tile-2{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 3%;
+ }
+
+ .board-1-tile-3{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 6%;
+ }
+
+ .board-1-tile-4{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 9%;
+ }
+
+ .board-1-tile-5{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 12%;
+ }
+
+ .board-1-tile-6{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 15%;
+ }
+
+ .board-1-tile-7{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 18%;
+ }
+
+ .board-1-tile-8{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 21%;
+ }
+
+ .board-1-tile-9{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 24%;
+ }
+
+ .board-1-tile-10{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 27%;
+ }
+
+ .board-1-tile-11{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 30%;
+ }
+
+ .board-1-tile-12{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 33%;
+ }
+
+ .board-1-tile-13{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 36%;
+ }
+
+ .board-1-tile-14{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 39%;
+ }
+
+ .board-1-tile-15{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 42%;
+ }
+
+ .board-1-tile-16{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 45%;
+ }
+
+ .board-1-tile-17{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 45%;
+    top:6%;
+ }
+
+ .board-1-tile-18{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 45%;
+    top:12%;
+ }
+
+ .board-1-tile-19{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 45%;
+    top:18%;
+ }
+
+ .board-1-tile-20{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 45%;
+    top:24%;
+ }
+
+ .board-1-tile-21{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 45%;
+    top:30%;
+ }
+
+ .board-1-tile-22{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 45%;
+    top:36%;
+ }
+
+ .board-1-tile-23{
+    position: absolute;
+    display: flex;
+    height: 5%;
+    width:2.5%;
+    background-color: rgb(255, 255, 255);
+    left: 45%;
+    top:42%;
+ }
+
+ .board-1-tile-24{
+   position: absolute;
+   display: flex;
+   height: 5%;
+   width:2.5%;
+   background-color: rgb(255, 255, 255);
+   left: 48%;
+   top:42%;
+}
+
+.board-1-tile-25{
+   position: absolute;
+   display: flex;
+   height: 5%;
+   width:2.5%;
+   background-color: rgb(255, 255, 255);
+   left: 51%;
+   top:42%;
+}
+
+.board-1-tile-26{
+   position: absolute;
+   display: flex;
+   height: 5%;
+   width:2.5%;
+   background-color: rgb(255, 255, 255);
+   left: 54%;
+   top:42%;
+}
+
+.board-1-tile-27{
+   position: absolute;
+   display: flex;
+   height: 5%;
+   width:2.5%;
+   background-color: rgb(255, 255, 255);
+   left: 54%;
+   top:48%;
+}
+
+.board-1-tile-28{
+   position: absolute;
+   display: flex;
+   height: 5%;
+   width:2.5%;
+   background-color: rgb(255, 255, 255);
+   left: 54%;
+   top:54%;
+}
+
+.board-1-tile-29{
+   position: absolute;
+   display: flex;
+   height: 5%;
+   width:2.5%;
+   background-color: rgb(255, 255, 255);
+   left: 54%;
+   top:60%;
+}
+
