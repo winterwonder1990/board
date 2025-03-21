@@ -21,7 +21,16 @@ let board1Tile17 = document.getElementById('board-1-tile-17');
 let board1Tile18 = document.getElementById('board-1-tile-18');
 let board1Tile19 = document.getElementById('board-1-tile-19');
 let board1Tile20 = document.getElementById('board-1-tile-20');
-let board1Tile21 = document.getElementById('board-1-tile-21');
+let board1Tile22 = document.getElementById('board-1-tile-22');
+let board1Tile23 = document.getElementById('board-1-tile-23');
+let board1Tile24 = document.getElementById('board-1-tile-24');
+let board1Tile25 = document.getElementById('board-1-tile-25');
+let board1Tile26 = document.getElementById('board-1-tile-26');
+let board1Tile27 = document.getElementById('board-1-tile-27');
+let board1Tile28 = document.getElementById('board-1-tile-28');
+let board1Tile29 = document.getElementById('board-1-tile-29');
+let board1Tile30 = document.getElementById('board-1-tile-30');
+
 
 
 
@@ -126,7 +135,127 @@ function position(){
      case 6:
         board1Tile6.style.backgroundColor = 'green';
         
-        break;
+     break;
+
+     case 7:
+      board1Tile7.style.backgroundColor = 'green';
+      
+     break;
+
+     case 8:
+      board1Tile8.style.backgroundColor = 'green';
+      
+     break;
+
+     case 9:
+      board1Tile9.style.backgroundColor = 'green';
+      
+     break;
+
+     case 10:
+      board1Tile10.style.backgroundColor = 'green';
+      
+     break;
+
+     case 11:
+      board1Tile11.style.backgroundColor = 'green';
+      
+     break;
+
+     case 12:
+      board1Tile12.style.backgroundColor = 'green';
+      
+     break;
+
+     case 13:
+      board1Tile13.style.backgroundColor = 'green';
+      
+     break;
+
+     case 14:
+      board1Tile14.style.backgroundColor = 'green';
+      
+     break;
+
+     case 15:
+      board1Tile15.style.backgroundColor = 'green';
+      
+     break;
+
+     case 16:
+      board1Tile16.style.backgroundColor = 'green';
+      
+     break;
+
+     case 17:
+      board1Tile17.style.backgroundColor = 'green';
+      
+     break;
+
+     case 18:
+      board1Tile18.style.backgroundColor = 'green';
+      
+     break;
+
+     case 19:
+      board1Tile19.style.backgroundColor = 'green';
+      
+     break;
+
+     case 20:
+      board1Tile20.style.backgroundColor = 'green';
+      
+     break;
+
+     case 21:
+      board1Tile21.style.backgroundColor = 'green';
+      
+     break;
+
+     case 22:
+      board1Tile22.style.backgroundColor = 'green';
+      
+     break;
+
+     case 23:
+      board1Tile23.style.backgroundColor = 'green';
+      
+     break;
+
+     case 24:
+      board1Tile24.style.backgroundColor = 'green';
+      
+     break;
+
+     case 25:
+      board1Tile25.style.backgroundColor = 'green';
+      
+     break;
+
+     case 26:
+      board1Tile26.style.backgroundColor = 'green';
+      
+     break;
+
+     case 27:
+      board1Tile27.style.backgroundColor = 'green';
+      
+     break;
+
+     case 28:
+      board1Tile28.style.backgroundColor = 'green';
+      
+     break;
+
+     case 29:
+      board1Tile29.style.backgroundColor = 'green';
+      
+     break;
+
+     case 30:
+      board1Tile30.style.backgroundColor = 'green';
+      
+     break;
 }
 
 }
