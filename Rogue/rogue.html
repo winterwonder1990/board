@@ -11,6 +11,9 @@
      <link rel="stylesheet" href="css\board-1-tiles.css">
 
 
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Agu+Display&family=Berkshire+Swash&family=Caveat:wght@400..700&display=swap" rel="stylesheet">
 
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,6 +31,29 @@
     
      <div class="story-board" id="story-board">
 
+     <button class="roll-button" id="roll-button" onclick="rollDice(); continueStory()">Roll</button>
+
+
+     <div class="choice-container" id="choice-container">
+
+         <button class="choice-1-button" id="choice-1-button" onclick="choice1()">
+          This is an example of the choice text.
+         </button>
+
+         <button class="choice-2-button" id="choice-2-button">
+            This is an example of the choice text.
+         </button>
+
+         <button class="choice-3-button" id="choice-3-button">
+            This is an example of the choice text.
+         </button>
+
+         <button class="choice-4-button" id="choice-4-button">
+            This is an example of the choice text.
+         </button>
+
+     </div>
+
      <div class="story-text" id="story-text">
       This is example text. I will add fonts later.
      </div>
@@ -36,8 +62,7 @@
 
 
 
-     <button class="roll-button" id="roll-button" onclick="rollDice()">Roll</button>
-
+     
 
 
      <div class="board-1" id="board-1">
@@ -96,6 +121,18 @@
         
 
         </div>
+
+
+
+
+
+
+
+
+
+     <script src="js\story-choices.js"></script> 
+     <script src="js\story.js"></script> 
+     <script src="js\start.js"></script> 
      <script src="js\board1.js"></script>
      <script src="js\main.js"></script>
  </body>

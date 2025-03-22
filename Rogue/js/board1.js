@@ -62,7 +62,7 @@ let board1Tile50 = document.getElementById('board-1-tile-50');
 
 
 function rollDice(){
-  let roll = Math.floor(Math.random() * 6) + 1;
+  let roll = 1;//Math.floor(Math.random() * 6) + 1;
  
     switch(roll) {
 
